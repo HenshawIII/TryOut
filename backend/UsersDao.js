@@ -1,4 +1,4 @@
-const URI = "mongodb+srv://henshawImmanuel:EkC96yNB4mlDLL94@cluster0.oipnzfc.mongodb.net/sample_mflix?retryWrites=true&w=majority&appName=Cluster0"
+const URI = "mongodb+srv://henshawImmanuel:<password>@cluster0.oipnzfc.mongodb.net/sample_mflix?retryWrites=true&w=majority&appName=Cluster0"
 let Users 
 
 export default class UsersDao{
